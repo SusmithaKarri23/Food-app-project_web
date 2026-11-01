@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "Productname": "soap",
+      "Productprice": "5000",
+      "Productqty": "3",
+      "id": "9Thyyvajalk"
+    },
+    {
+      "Productname": "Dairymilk",
+      "Productprice": "150",
+      "Productqty": "5",
+      "id": "rnrWmuboy6s"
+    },
+    {
+      "Productname": "Mobile",
+      "Productprice": "30000",
+      "Productqty": "5",
+      "id": "tzDE4qt2QkU"
+    },
+    {
+      "Productname": "bueno",
+      "Productprice": "150",
+      "Productqty": "5",
+      "id": "3Msmg5Pb-QY"
+    },
+    {
+      "Productname": "Milk",
+      "Productprice": "40",
+      "Productqty": "5",
+      "id": "aVv0SzSRt8A"
+    },
+    {
+      "Productname": "laptop",
+      "Productprice": "70000",
+      "Productqty": "2",
+      "id": "6AwjcfQ1px8"
+    },
+    {
+      "Productname": "Bottle",
+      "Productprice": "250",
+      "Productqty": "12",
+      "id": "q5L9gfASi8k"
+    },
+    {
+      "Productname": "book",
+      "Productprice": "75",
+      "Productqty": "7",
+      "id": "2dm1X3L9WD8"
+    },
+    {
+      "Productname": "charger",
+      "Productprice": "300",
+      "Productqty": "2",
+      "id": "rsVMV6z9D90"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
